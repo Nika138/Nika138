@@ -18,4 +18,5 @@ I'm  Full-Stack Developer with a decent skill set and a passion for crafting exc
 ## Additional Information: 
 - **Independent Worker:**  Proven ability to work independently on projects and meet deadlines.
 - **Problem Solver:**  Ready to tackle new challenges and find creative solutions in web development.
- 
+- **Technical Skills:** Proficient in VS Code and Git.
+- **Soft Skills:** Strong communication, teamwork, and adaptability.
